@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="app_logo.png" alt="CeKulit Logo" width="300">
+  <img src="assets/app_logo.png" alt="CeKulit Logo" width="300">
   <h1>CeKulit - Your Personal Skin Type Analysis Assistant</h1>
   <p><i>Empowering everyone to understand and care for their skin better</i></p>
 </div>
@@ -8,7 +8,7 @@
 
 Welcome to CeKulit! 👋 We're a dedicated team committed to revolutionizing skin health awareness through innovative technology. Our project combines the power of artificial intelligence, cloud computing, and mobile development to make professional-grade skin analysis accessible to everyone.
 
-![Project Demo](DemoCeKulitApp.gif)
+![Project Demo](assets/DemoCeKulitApp.gif)
 
 ## 🌟 Project Overview
 
@@ -95,7 +95,13 @@ Our diverse team brings together expertise in machine learning, cloud computing,
 
 ## 📱 App Screenshots
 
-[Insert key screenshots of your application here]
+<p align="center">
+  <img src="assets/login.png" alt="Preview 1" width="200" />
+  <img src="assets/onboarding-1.png" alt="Preview 2" width="200" />
+  <img src="assets/onboarding-3.png" alt="Preview 3" width="200" />
+  <img src="assets/homepage.png" alt="Preview 3" width="200" />
+  <img src="assets/scan.png" alt="Preview 3" width="200" />
+</p>
 
 ## 🔄 Project Architecture
 
