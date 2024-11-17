@@ -34,13 +34,13 @@ Our diverse team brings together expertise in machine learning, cloud computing,
 
 | Learning Path | Bangkit ID | Name | University | GitHub | LinkedIn |
 |--------------|------------|------|-------------|---------|-----------|
-| Machine Learning | M312B4KY2043 | Jasson Franklyn Wang | Universitas Sebelas Maret | [GitHub](https://github.com/jassonfw) | [LinkedIn](https://linkedin.com/in/jassonfw) |
-| Machine Learning | M312B4KY1317 | Fadhil Yusuf | Universitas Sebelas Maret | [GitHub](https://github.com/fadhilyusuf) | [LinkedIn](https://linkedin.com/in/fadhilyusuf) |
-| Machine Learning | M559B4KY2166X | Kemas Muhammad Riski Aditia | Universitas Hang Tuah Pekanbaru | [GitHub](https://github.com/kemasriski) | [LinkedIn](https://linkedin.com/in/kemasriski) |
-| Cloud Computing | C308B4KY3778 | Reynal Novriadi | Universitas Riau | [GitHub](https://github.com/reynalnovriadi) | [LinkedIn](https://linkedin.com/in/reynalnovriadi) |
-| Cloud Computing | C627B4KY1428 | Fatahillah Alif Pangaribowo | Institut Teknologi Dirgantara Adisutjipto | [GitHub](https://github.com/fatahillah) | [LinkedIn](https://linkedin.com/in/fatahillah) |
-| Mobile Development | A210B4KY0415 | Alvano Hastagina | Universitas Ibn Khaldun Bogor | [GitHub](https://github.com/alvanohastagina) | [LinkedIn](https://linkedin.com/in/alvanohastagina) |
-| Mobile Development | A308B4KX441 | Viera Adella | Universitas Riau | [GitHub](https://github.com/vieraadella) | [LinkedIn](https://linkedin.com/in/vieraadella) |
+| Machine Learning | M312B4KY2043 | Jasson Franklyn Wang | Universitas Sebelas Maret | [GitHub](https://github.com/4ranklyn) | [LinkedIn](https://www.linkedin.com/in/franklynical) |
+| Machine Learning | M312B4KY1317 | Fadhil Yusuf | Universitas Sebelas Maret | [GitHub](https://github.com/huror) | [LinkedIn](https://www.linkedin.com/in/fadhil-yusuf) |
+| Machine Learning | M559B4KY2166X | Kemas Muhammad Riski Aditia | Universitas Hang Tuah Pekanbaru | [GitHub](https://github.com/KemasMhd) | [LinkedIn](https://www.linkedin.com/in/kemas-muhammad-riski-aditia-205834251) |
+| Cloud Computing | C308B4KY3778 | Reynal Novriadi | Universitas Riau | [GitHub](https://github.com/Reynal121) | [LinkedIn](https://www.linkedin.com/in/reynal-novriadi-686b42334) |
+| Cloud Computing | C627B4KY1428 | Fatahillah Alif Pangaribowo | Institut Teknologi Dirgantara Adisutjipto | [GitHub](https://github.com/pangaribowo) | [LinkedIn](https://www.linkedin.com/in/fatahillahalif) |
+| Mobile Development | A210B4KY0415 | Alvano Hastagina | Universitas Ibn Khaldun Bogor | [GitHub](https://www.linkedin.com/in/alvanochi) | [LinkedIn](https://linkedin.com/in/alvanohastagina) |
+| Mobile Development | A308B4KX441 | Viera Adella | Universitas Riau | [GitHub](https://github.com/vieraadella) | [LinkedIn](https://www.linkedin.com/in/viera-adella-a9b7a72b6/) |
 
 ## 🛠️ Technology Stack
 
