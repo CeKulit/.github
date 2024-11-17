@@ -56,7 +56,6 @@ Our diverse team brings together expertise in machine learning, cloud computing,
 ### Cloud Computing
 - Google Cloud Platform
 - Firebase (Authentication & Storage)
-- Cloud SQL
 - Cloud Run
 - Cloud Functions
 - TensorFlow Serving
@@ -112,7 +111,7 @@ graph TD
     B --> D[ML Model Service]
     D --> E[TensorFlow Serving]
     B --> F[User Data Service]
-    F --> G[Cloud SQL]
+    F --> G[Firebase Service]
     B --> H[Storage Service]
     H --> I[Cloud Storage]
 ```
