@@ -99,7 +99,7 @@ Our diverse team brings together expertise in machine learning, cloud computing,
   <img src="assets/onboarding-1.png" alt="Onboard Preview 1" width="200" />
   <img src="assets/onboarding-2.png" alt="Onboard 2" width="200" />
   <img src="assets/homepage.png" alt="Homepage Preview" width="200" />
-  <img src="assets/scan.png" alt="Scan Preview" width="150" />
+  <img src="assets/scan.png" alt="Scan Preview" width="175" />
 </p>
 
 ## 🔄 Project Architecture
