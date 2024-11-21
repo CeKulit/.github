@@ -95,11 +95,11 @@ Our diverse team brings together expertise in machine learning, cloud computing,
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="assets/login.png" alt="Login Preview" width="200" />
-  <img src="assets/onboarding-1.png" alt="Onboard Preview 1" width="200" />
-  <img src="assets/onboarding-2.png" alt="Onboard 2" width="200" />
-  <img src="assets/homepage.png" alt="Homepage Preview" width="200" />
-  <img src="assets/scan.png" alt="Scan Preview" width="200" />
+  <img src="assets/login.png" alt="Login Preview" width="100" />
+  <img src="assets/onboarding-1.png" alt="Onboard Preview 1" width="100" />
+  <img src="assets/onboarding-2.png" alt="Onboard 2" width="100" />
+  <img src="assets/homepage.png" alt="Homepage Preview" width="100" />
+  <img src="assets/scan.png" alt="Scan Preview" width="100" />
 </p>
 
 ## 🔄 Project Architecture
