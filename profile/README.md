@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/app_logo.png" alt="CeKulit Logo" width="300">
+  <img src="https://github.com/CeKulit/cekulit-assets/blob/main/assets/app/app_logo_hd.png" alt="CeKulit Logo" width="300"/>
   <h1>CeKulit - Your Personal Skin Type Analysis Assistant</h1>
   <p><i>Empowering everyone to understand and care for their skin better</i></p>
 </div>
