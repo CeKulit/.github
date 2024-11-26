@@ -39,7 +39,7 @@ Our diverse team brings together expertise in machine learning, cloud computing,
 | Machine Learning | M559B4KY2166X | Kemas Muhammad Riski Aditia | Universitas Hang Tuah Pekanbaru | [GitHub](https://github.com/KemasMhd) | [LinkedIn](https://www.linkedin.com/in/kemas-muhammad-riski-aditia-205834251) |
 | Cloud Computing | C308B4KY3778 | Reynal Novriadi | Universitas Riau | [GitHub](https://github.com/Reynal121) | [LinkedIn](https://www.linkedin.com/in/reynal-novriadi-686b42334) |
 | Cloud Computing | C627B4KY1428 | Fatahillah Alif Pangaribowo | Institut Teknologi Dirgantara Adisutjipto | [GitHub](https://github.com/pangaribowo) | [LinkedIn](https://www.linkedin.com/in/fatahillahalif) |
-| Mobile Development | A210B4KY0415 | Alvano Hastagina | Universitas Ibn Khaldun Bogor | [GitHub](https://www.linkedin.com/in/alvanochi) | [LinkedIn](https://linkedin.com/in/alvanohastagina) |
+| Mobile Development | A210B4KY0415 | Alvano Hastagina | Universitas Ibn Khaldun Bogor | [GitHub](https://github.com/alvanochi) | [LinkedIn](https://linkedin.com/in/alvanoh) |
 | Mobile Development | A308B4KX441 | Viera Adella | Universitas Riau | [GitHub](https://github.com/vieraadella) | [LinkedIn](https://www.linkedin.com/in/viera-adella-a9b7a72b6/) |
 
 ## 🛠️ Technology Stack
@@ -63,7 +63,6 @@ Our diverse team brings together expertise in machine learning, cloud computing,
 
 ### Mobile Development
 - Kotlin
-- Android Jetpack Components
 - CameraX
 - Retrofit
 - Room Database
