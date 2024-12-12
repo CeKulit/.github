@@ -8,7 +8,7 @@
 
 Welcome to CeKulit! 👋 We're a dedicated team committed to revolutionizing skin health awareness through innovative technology. Our project combines the power of artificial intelligence, cloud computing, and mobile development to make professional-grade skin analysis accessible to everyone.
 
-[Project Demo](assets/DemoCeKulitApp.gif)
+![Project Demo](https://drive.google.com/file/d/1UMLegc7TFoqeskf6PnhyJbIJSssayefW/view)
 
 ## 🌟 Project Overview
 
