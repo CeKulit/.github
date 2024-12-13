@@ -56,10 +56,10 @@ Our diverse team brings together expertise in machine learning, cloud computing,
 ### Cloud Computing
 - Google Cloud Platform
 - Firebase (Authentication & Storage)
-- Cloud Run
-- Cloud Functions
-- TensorFlow Serving
-- Node.js & Express.js
+- Cloud Storage
+- Compute Engine
+- Flask
+- Node.js
 
 ### Mobile Development
 - Kotlin
